@@ -1,2 +1,3 @@
 <?python
 pyinfo();
+hi alice
