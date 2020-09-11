@@ -1,3 +1,0 @@
-<?python
-pyinfo();
-hi alice
